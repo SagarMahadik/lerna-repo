@@ -1,0 +1,53 @@
+{
+	"name": "@bennytest/styles",
+	"version": "0.0.4",
+	"description": "UI Libray styles",
+	"keywords": [
+		"ui",
+		"styles"
+	],
+	"author": "sgrmhdk <31389818+SagarMahadik@users.noreply.github.com>",
+	"homepage": "https://www.bennyquotes.com/",
+	"license": "ISC",
+	"main": "dist/index.js",
+	"directories": {
+		"lib": "lib",
+		"test": "__tests__"
+	},
+	"dependencies": {
+		"@testing-library/react": "13.3.0",
+		"@types/jest": "^27.0.3",
+		"@types/react": "^17.0.14",
+		"jest": "^27.4.3",
+		"react": "18.1.0",
+		"react-dom": "18.1.0",
+		"rollup": "^2.60.2",
+		"rollup-plugin-typescript2": "^0.31.1",
+		"styled-components": "^5.3.6",
+		"ts-jest": "^27.1.1",
+		"tslib": "^2.3.1",
+		"typescript": "^4.5.2"
+	},
+	"devDependencies": {
+		"@types/styled-components": "^5.1.26",
+		"rimraf": "^3.0.2"
+	},
+	"files": [
+		"lib"
+	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"private": false,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SagarMahadik/lerna-repo.git"
+	},
+	"scripts": {
+		"build": "rimraf dist && rollup --config",
+		"test": "jest"
+	},
+	"bugs": {
+		"url": "https://github.com/SagarMahadik/lerna-repo/issues"
+	}
+}
