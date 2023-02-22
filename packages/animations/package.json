@@ -1,6 +1,6 @@
 {
 	"name": "@bennytest/animations",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "> TODO: description",
 	"author": "sgrmhdk <31389818+SagarMahadik@users.noreply.github.com>",
 	"homepage": "https://github.com/SagarMahadik/lerna-repo#readme",
@@ -25,7 +25,7 @@
 		"url": "https://github.com/SagarMahadik/lerna-repo/issues"
 	},
 	"dependencies": {
-		"framer-motion": "^9.0.7",
-		"@bennytest/styles": "*"
+		"@bennytest/styles": "^0.0.5",
+		"framer-motion": "^9.0.7"
 	}
 }
