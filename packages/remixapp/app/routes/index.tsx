@@ -1,5 +1,5 @@
-import { Header } from "bennytestheader";
-import { Footer } from "bennytestfooter";
+import { Header } from "@bennytest/header";
+import { Footer } from "@bennytest/footer";
 
 export default function Index() {
 	return (

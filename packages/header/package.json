@@ -1,5 +1,5 @@
 {
-	"name": "bennytestheader",
+	"name": "@bennytest/header",
 	"version": "0.0.3",
 	"main": "dist/index.js",
 	"scripts": {
@@ -22,5 +22,10 @@
 	"devDependencies": {
 		"rimraf": "^3.0.2"
 	},
-	"gitHead": "f6c27243ea94d2538237e4525d4462c6e0a6c871"
+	"gitHead": "f6c27243ea94d2538237e4525d4462c6e0a6c871",
+	"license": "MIT",
+	"publishConfig": {
+		"access": "public"
+	},
+	"private": false
 }
