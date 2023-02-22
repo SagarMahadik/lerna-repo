@@ -13,6 +13,10 @@
 	"files": [
 		"lib"
 	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"private": false,
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/SagarMahadik/lerna-repo.git"
@@ -27,5 +31,6 @@
 	"dependencies": {
 		"@bennytest/styles": "^0.0.5",
 		"framer-motion": "^9.0.7"
-	}
+	},
+	"gitHead": "169749500bd556e1955676287a5124a88ace9a73"
 }

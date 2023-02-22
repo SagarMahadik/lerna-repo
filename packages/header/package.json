@@ -22,7 +22,7 @@
 	"devDependencies": {
 		"rimraf": "^3.0.2"
 	},
-	"gitHead": "f6c27243ea94d2538237e4525d4462c6e0a6c871",
+	"gitHead": "169749500bd556e1955676287a5124a88ace9a73",
 	"license": "MIT",
 	"publishConfig": {
 		"access": "public"
