@@ -1,5 +1,5 @@
 {
-	"name": "@bennytest/footer",
+	"name": "bennytestfooter",
 	"version": "0.0.2",
 	"main": "dist/index.js",
 	"scripts": {
@@ -22,5 +22,5 @@
 	"devDependencies": {
 		"rimraf": "^3.0.2"
 	},
-	"gitHead": "52fab2bcb16d73124402b825e6227377c1248144"
+	"gitHead": "f6c27243ea94d2538237e4525d4462c6e0a6c871"
 }
